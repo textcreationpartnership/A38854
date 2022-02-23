@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the King of Sweden's dangerous sickness with a true relation by what means the constant report of his death hath been occasion'd.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38854</idno>
+            <idno type="STC">Wing E3571</idno>
+            <idno type="STC">ESTC R1872</idno>
+            <idno type="EEBO-CITATION">12265307</idno>
+            <idno type="OCLC">ocm 12265307</idno>
+            <idno type="VID">58031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the King of Sweden's dangerous sickness with a true relation by what means the constant report of his death hath been occasion'd.</title>
+               </titleStmt>
+               <extent>[2], 14 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Gabriel Kunholt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  XI, --  King of Sweden, 1655-1697.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:58031:1"/>
+               <pb facs="tcp:58031:1" rendition="simple:additions"/>
+AN EXACT ACCOUNT OF THE King of Sweden's <hi>DANGERO<g ref="char:V">Ʋ</g>S SICKNESS;</hi> With a True RELATION By what Means the Conſtant Report of HIS DEATH Hath been Occaſion'd.</p>
+            <p>LICENSED, <hi>May</hi> 16. 1679.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Gabriel Kunholt,</hi> Bookbinder to His Highneſs Prince <hi>Rupert.</hi> 1679</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:58031:2"/>
+            <pb n="1" facs="tcp:58031:2"/>
+            <head>AN EXTRACT OF A LETTER Sent the 11th of <hi>April</hi> laſt paſt to one of the King of <hi>France</hi>'s Miniſters, by a French Officer from <hi>Liungby,</hi> the King of <hi>Sweden</hi>'s Camp, at the time of His Majeſties Sickneſs.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Cannot forbear to inform you by this Opportunity, of the King of <hi>Swe<g ref="char:EOLhyphen"/>dens</hi> intire Recovery of His dange<g ref="char:EOLhyphen"/>rous Sickneſs, which did put both the <hi>Phyſitians</hi> and the whole Army into a deſpair; And I do not doubt, but that I ſhall give you
+<pb n="2" facs="tcp:58031:3"/>
+ſome Satisfaction, by informing you, of the particul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Circumſtances, and of the Pi<g ref="char:EOLhyphen"/>ous Diſcourſes, and Kind Expreſſions, which this Prince made during the heat of His Sickneſs; For when he found himſelf at firſt ill on the 20th of <hi>March</hi> laſt paſt, he ſtrove to conceale it for ſeveral dayes, as much as poſſibly he might, by booting him, as he daily uſeth to do, viewing his Camp, and keeping of His Council, until the 23d of the ſaid Moneth; when he found himſelf ſo ill, that he was forced to take his Bed, and to declare, that he had a violent Feaver, with an exceeding heat and oppreſſion of the heart; And finding the Feaver increaſing, and the time of Death approaching, he called for his Chief Miniſter, made his Confeſſion, and re<g ref="char:EOLhyphen"/>ceived the Holy Sacrament with great De<g ref="char:EOLhyphen"/>votion, he having alwayes lived an exemplary Life of Piety and Vertue. Whereupon His Majeſty ſent for his Miniſters of State, and placed the Chiefeſt of them upon the ſide of his Bed, and told them, That where<g ref="char:EOLhyphen"/>as he perceived himſelf at the point of
+<pb n="3" facs="tcp:58031:3"/>
+leaving the World, he would not fail to give them His thanks, for all the Care and Troubles, which they had taken for Him, and charged them with ſeveral things ve<g ref="char:EOLhyphen"/>ry tenderly relating to the Queen Mother, which I could not fully underſtand, be<g ref="char:EOLhyphen"/>ing ſpoken in the <hi>Swediſh Language,</hi> and ſomething low; And ſeeing the Chiefeſt Officers of His whole Army round about His Bed-ſide, he gave them thanks in a moſt obliging manner for the ſaithful Ser<g ref="char:EOLhyphen"/>vices which they had done Him, and His Country; He remembred very well the many Dangers they had run in all Encoun<g ref="char:EOLhyphen"/>ters and Battels that had been fought, and that next to God, He attributed to their Valour the good Iſſue of them all. Next to them He gave His hearty Thanks to all the Officers of His Houſhold, and Menial Servants, and enlarged Himſelf very much upon the great troubles He had for not being in a condition to Reward them ac<g ref="char:EOLhyphen"/>cording to their Merits; He hoped, that God would do it, being the True Re<g ref="char:EOLhyphen"/>warder of all honeſt Actions: He deſired
+<pb n="4" facs="tcp:58031:4"/>
+their pardon, if He had offended them, and bid them conſider, that He was a Man like themſelves, and had His Failings like others; but He could aſſure them, that He never did offend any of them witting<g ref="char:EOLhyphen"/>ly, or with a ſet intention.</p>
+            <p>And whereas His Troubles and Pains increaſed more and more, His Majeſty ſupported them with as much Courage as any could do; Yet, at laſt, He could not forbear to tell us, that ſtood about Him, that He muſt needs confeſs, That all what He had ſuffered all the time of the War, did never come near to that which He did ſuffer for the preſent; and that the Ene<g ref="char:EOLhyphen"/>my which now Attack'd Him, did uſe Him more Cruelly, than all the others that He had had againſt Him for many years to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>He Prayed to God to have Mercy on His Soul, and with many earneſt Repeti<g ref="char:EOLhyphen"/>tions recommended unto Him His Kingdom and Country, which could not but be ve<g ref="char:EOLhyphen"/>ry
+<pb n="5" facs="tcp:58031:4"/>
+unhappy by His death, without Gods particular Favour and Protection; bewail<g ref="char:EOLhyphen"/>ing very much, that He ſhould leave the ſame in ſuch a diſtracted War; but yet comforting Himſelf withal, That all thoſe that were about Him, knew very well how He was drawn into the War, and in His Minority too, when He could not apply ſuch Remedies, as were neceſſary for to turn it another way.</p>
+            <p>And whereas He ſpoke all this with ſuch tender expreſſions, that all the Spectators could not forbear to bur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t out in Tears, He ſaid to them, Pray why do you grieve ſo much? I am not to be ſo much lament<g ref="char:EOLhyphen"/>ed, for I find in my ſelf an Aſſurance, that I am a Child of Heaven, and of the ever<g ref="char:EOLhyphen"/>laſting God; I never did any body harm, nor any hurt to my Conſcience, and I have kept my Words very punctually to my Al<g ref="char:EOLhyphen"/>lies, and my Engagement to my Subjects; whom I have Loved very tenderly, and have freely expoſed my Life for their wel<g ref="char:EOLhyphen"/>fare; And, although you may have after
+<pb n="6" facs="tcp:58031:5"/>
+Me a Wiſer King, yet never will you have any one that ſhall love you more than I have done.</p>
+            <p>And the uſual hour for His daily Publick Prayer approaching, He deſired His Chap<g ref="char:EOLhyphen"/>lain to be called for, who, in regard of His Majeſties weakneſs, endeavoured to ſhor<g ref="char:EOLhyphen"/>ten the Prayers, but the King told him, That it was not the Time to do it ſo, for He never needed his and others Prayers more than at that inſtant; But, no ſooner were they ended, but that He ſpoke of Death with a great deal of courage, and every one feared He ſhould wrong himſelf by talking ſo much; We endeavoured to get away, but He no ſooner perceived it, but He called us back, and deſired that He might not be buried in any great State or Pomp, reminding them of His plain way of living, and as He never affected any Pride in His Life-time, ſo He deſired to be Buried as He had Lived, ſeeing the preſent time could not afford any unneceſſary Char<g ref="char:EOLhyphen"/>ges; wherewith He gave us His Hand to
+<pb n="9" facs="tcp:58031:5"/>
+kiſs, and took his leave with many tender expreſſions.</p>
+            <p>Some hours after, his Majeſty was ta<g ref="char:EOLhyphen"/>ken with a great Sweat, whereby the pains, of the heart diminiſhed, and after a ſweet ſleep of Fourteen hours together, his vio<g ref="char:EOLhyphen"/>lent Feaver turned into a Tertian Ague, the Fits whereof leſſened from day to day, till this very day, when he had no Fit at all, ſo that we judge his Majeſty free from all danger, and <hi>Sweden</hi> delivered from ve<g ref="char:EOLhyphen"/>ry dangerous troubles and diſorders, which would neceſſarily have followed upon the death of ſuch a Prince.</p>
+            <p>I cannot repreſent unto you all the fine expreſſions, which His Majeſty uſed all this time, onely I muſt tell you in few words, that we all, that ſtood about his Bed ſide, did admire it, and muſt needs confeſs, that we have obſerved, that within two or three moneths he hath improved mightily, and hath got all the Parts of a Great Prince.</p>
+            <p>
+               <pb n="10" facs="tcp:58031:6"/>
+And I leave it to you to judge, what ſtrange alterations his death would have produced, and what a joy we all muſt have, who have ſeen him in this apparent danger, and in the very Agonie.</p>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:58031:6"/>
+            <head>A TRUE RELATION By what means the conſtant REPORT OF HIS DEATH Hath been occaſioned.</head>
+            <p>
+               <seg rend="decorInit">O</seg>
+               <g ref="char:V">Ʋ</g>T of this Relation it is clearly to be ſeen, that the King of <hi>Sweden</hi> hath been dangerouſly ill; and whereas nothing could be more acceptable, as well as profitable to the enemies of <hi>Sweden,</hi> then ſuch news,
+<pb n="12" facs="tcp:58031:7"/>
+many of the Countrey people of <hi>Scho<g ref="char:EOLhyphen"/>nen,</hi> and eſpecially the <hi>Snaphanes,</hi> ſnatched thereof an opportunity to be the firſt to inform the <hi>Danes</hi> of his Ma<g ref="char:EOLhyphen"/>jeſties death, in expectation of very great Rewards, And ſince it happened, that one of the ſeveral dead Corps of ſome Great Officers, that had been killed during this War, and ſet by in the Pa<g ref="char:EOLhyphen"/>riſh Church of <hi>Liungby,</hi> which lyes very cloſe to the King's Camp, was ac<g ref="char:EOLhyphen"/>cording to the uſual cuſtom in that Coun<g ref="char:EOLhyphen"/>trey, with great pomp, ſent up to <hi>Stock<g ref="char:EOLhyphen"/>holme</hi> for its burial, and attended through the <hi>Swediſh</hi> Camp with ſeve<g ref="char:EOLhyphen"/>ral Troops of Horſe and Foot, the ſaid Countrey people and <hi>Snaphanes,</hi> fully took it for a ſolemnity of His Majeſties own Funeral, and haſtened to both the <hi>Daniſh</hi> Garriſons at <hi>Landſ<g ref="char:EOLhyphen"/>croon,</hi>
+               <pb n="13" facs="tcp:58031:7"/>
+and <hi>Helſenburgh,</hi> with the news thereof; and for the greater ap<g ref="char:EOLhyphen"/>pearance of its real Truth, it happened that a <hi>Daniſh</hi> Officer was about the ſame time ſent by the King of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> towards <hi>Chriſtianſtadt,</hi> to inform the King of <hi>Sweden</hi> of the Ceſſation of Arms, concluded at <hi>Nimeguen,</hi> and to proceed further towards <hi>Norway<g ref="char:punc">▪</g>
+               </hi> and there to give alſo the ſame infor<g ref="char:EOLhyphen"/>mation thereof.</p>
+            <p>But whereas the ſaid Officer was only provided with a Paſsport of the <hi>Swediſh</hi> Ambaſſadors at <hi>Nimeguen,</hi> to this effect, and brought no Letters at all along with him from them to the KING, nor any particular infor<g ref="char:EOLhyphen"/>mation of the Conditions of the ſaid Ceſſation; it was neither found con<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>nt, nor an act of Prudence, to ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="14" facs="tcp:58031:8"/>
+an Officer of the Enemy to paſs under that pretenſion, through the <hi>Swediſh</hi> Territories, Army, and strong Holds to <hi>Norway,</hi> but it was orde<g ref="char:EOLhyphen"/>red that he ſhould return for <hi>Helſing<g ref="char:EOLhyphen"/>burg,</hi> and with a <hi>Swediſh</hi> Paſsport to go from thence by Sea, as the uſual and ſafer way for <hi>Norway;</hi> which the ſaid Officer, as well as the reſt of the <hi>Daniſh</hi> Partiſans took for a Miſte<g ref="char:EOLhyphen"/>ry and Product of the death of the King of <hi>Sweden,</hi> and reported it ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58031:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
